@@ -12,9 +12,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Website](https://nahrts.000webhostapp.com/)**
+- 👨‍💻 All of my projects are available at **[My Website](https://nahuretes.github.io/CV/)**
 
-- 📫 How to reach me **na.rts@outlook.com**
+- 📫 How to reach me **nahueretes@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
